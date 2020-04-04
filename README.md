@@ -6,7 +6,7 @@ cat /home/tuttu/.bash_history
 
 The date and time when a command was executed is not shown. This is the default setting on most if not all Linux distributions.
 
-to have a real-time view of the shell commands being run by another user logged in via a terminal or SSH, you can use the Sysdig tool in Linux.
+To have a real-time view of the shell commands being run by another user logged in via a terminal or SSH, you can use the Sysdig tool in Linux.
 
 Sydig is an open-source, cross-platform, powerful and flexible system monitoring, analysis and troubleshooting tool for Linux. It can be used for system exploration and debugging.
 
